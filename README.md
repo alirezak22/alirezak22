@@ -1,66 +1,21 @@
-<h1 align="center">Hi there, I'm Alireza Karami 👋</h1>
+# 💫 About Me:
+Hi there, I'm Alireza Karami 👋<br>🧠 Software Engineer | 💼 Startup Founder | 🎮 Game Developer | 🧪 Inventor & Researcher | 🎓 IT Instructor CEO of Kimiagaran Shirdaal Director of Kimiagaran Technical Institute Also known as Mr.Key 🔑<br><br>👤 About Me<br>I'm a passionate technologist and educator with over 12 years of experience in software engineering, AI innovation, and game development.<br><br>Since 2016, I've been actively teaching programming, software architecture, and artificial intelligence to hundreds of students across Iran.<br><br>As the founder of multiple startups, I aim to build meaningful, impactful software and bring high-quality technical education to the community.<br><br>🧠 Startups & Projects<br>🔹 Pegasus – AI-driven decision engine<br>🔹 Yeti – Smart Virtual Assistant<br>🔹 Tapal – Online shopping marketplace<br>🔹 Dizi – AI-generated Persian cooking encyclopedia<br>🔹 Red Weapon – First action game for the blind (voice-based)<br>🔹 Sardar Bidar – Historical mobile strategy game<br>🏆 Achievements<br>🥇 5-time Champion – ACM Programming Competitions<br>🧠 5-time Winner – Royesh Innovation Festival<br>🎓 Honored as Top Researcher and Top Inventor<br>🏅 4 Diplomas of Honor for innovation and excellence<br>🧑‍🏫 Teaching since 2016 (age 21)<br>🏆 Earned 32 national awards in programming & AI<br>🎓 Education<br>B.Sc. in Computer Engineering – Information Technology<br>Payam Noor University, Maragheh<br><br>🧰 Technical Skills<br>💻 Programming Languages<br>C++, C#, JavaScript, HTML, CSS, Embedded C<br><br>🌐 Web Development<br>ASP.NET, ASP.NET Core, Blazor, AJAX, ASP.NET MVC, Bootstrap<br><br>📱 Desktop & Mobile Apps<br>WinForms, Xamarin, Qt<br><br>🎮 Game Development<br>Unity, XNA, C# Game Logic, Voice Interaction, AI in Games<br><br>🤖 AI & Robotics<br>ML.NET, Microsoft Azure, AI Model
 
-<p align="center">
-  🧠 Software Engineer | 💼 Startup Founder | 🎮 Game Developer | 🧪 Inventor & Researcher | 🎓 IT Instructor  
-  CEO of <a href="https://kimiagaran.ir"><strong>Kimiagaran Shirdaal</strong></a>  
-  Director of <strong>Kimiagaran Technical Institute</strong>  
-  Also known as <strong>Mr.Key 🔑</strong>
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alirezakarami) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alireza_k22) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/alireza_k22) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/alireza_k22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alireza_k22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karami_alireza@outlook.com) 
 
-### 👤 About Me
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alireza_k22&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alireza_k22&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza_k22&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm a passionate technologist and educator with over **12 years of experience** in software engineering, AI innovation, and game development.
-
-Since **2016**, I've been actively teaching programming, software architecture, and artificial intelligence to hundreds of students across Iran.
-
-As the **founder** of multiple startups, I aim to build meaningful, impactful software and bring high-quality technical education to the community.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alireza_k22&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=alireza_k22&icon=2&color=1)](https://visitcount.itsvg.in)
 
-### 🧠 Startups & Projects
-
-- 🔹 **Pegasus** – AI-driven decision engine  
-- 🔹 **Yeti** – Smart Virtual Assistant  
-- 🔹 **Tapal** – Online shopping marketplace  
-- 🔹 **Dizi** – AI-generated Persian cooking encyclopedia  
-- 🔹 **Red Weapon** – First action game for the blind (voice-based)  
-- 🔹 **Sardar Bidar** – Historical mobile strategy game  
-
----
-
-### 🏆 Achievements
-
-- 🥇 **5-time Champion** – ACM Programming Competitions  
-- 🧠 **5-time Winner** – Royesh Innovation Festival  
-- 🎓 Honored as **Top Researcher** and **Top Inventor**  
-- 🏅 **4 Diplomas of Honor** for innovation and excellence  
-- 🧑‍🏫 Teaching since **2016 (age 21)**  
-- 🏆 Earned **32 national awards** in programming & AI
-
----
-
-### 🎓 Education
-
-**B.Sc. in Computer Engineering – Information Technology**  
-_Payam Noor University, Maragheh_
-
----
-
-### 🧰 Technical Skills
-
-#### 💻 Programming Languages
-`C++`, `C#`, `JavaScript`, `HTML`, `CSS`, `Embedded C`
-
-#### 🌐 Web Development
-`ASP.NET`, `ASP.NET Core`, `Blazor`, `AJAX`, `ASP.NET MVC`, `Bootstrap`
-
-#### 📱 Desktop & Mobile Apps
-`WinForms`, `Xamarin`, `Qt`
-
-#### 🎮 Game Development
-`Unity`, `XNA`, `C# Game Logic`, `Voice Interaction`, `AI in Games`
-
-#### 🤖 AI & Robotics
-`ML.NET`, `Microsoft Azure`, `AI Model`
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
